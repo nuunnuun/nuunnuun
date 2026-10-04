@@ -14,6 +14,6 @@ I'm interested in software development, AI, and robotics, and I'm still discover
 
 ### About this GitHub
 
-This is a record of my learning journey—from early exercises to larger projects. Each repository reflects something I've learned, practiced, or tried along the way.
+This is a record of my learning journey from early exercises to larger projects. Each repository reflects something I've learned, practiced, or tried along the way.
 
 Thanks for stopping by <3
